@@ -70,7 +70,7 @@
 <h3 align="center">Cifrado César</h3>
 <div align="center">
 <a href="https://github.com/justingarciaH/CifradoCesar" target="_blank">
-<img src="https://raw.githubusercontent.com/justingarciaH/repositorio-especial/main/imagenes/cifrado_cesar.jpg" width="400" alt="Cifrado César"></a>
+<img src="cifrado%20cesar%20ejemplo.jpg" alt="Cifrado César">
 <p>
 <a href="https://github.com/justingarciaH/CifradoCesar" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a>
