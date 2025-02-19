@@ -57,7 +57,7 @@
 <h3 align="center">Sitio web concesionaria</h3>
 <div align="center">
 <a href="https://github.com/justingarciaH/SitioWebConcesionaria" target="_blank">
-<img src="(https://github.com/justingarciaH/SitioWebConcesionaria/blob/f6d4b0facde699eb93501ca94554c345c9291d46/concesionaria_ejemplo.jpg)" width="400" alt="Sitio web concesionaria"></a>
+<img src="https://github.com/justingarciaH/SitioWebConcesionaria/blob/f6d4b0facde699eb93501ca94554c345c9291d46/concesionaria_ejemplo.jpg" width="400" alt="Sitio web concesionaria"></a>
 <p>
 <a href="https://github.com/justingarciaH/SitioWebConcesionaria" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
