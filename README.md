@@ -24,7 +24,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Un intento de plantas vs zombies</h3>
+<h3 align="center">Patos vs zombies</h3>
 <div align="center">
 <a href="https://github.com/justingarciaH/PlantasVsZombies" target="_blank">
 <img src="https://github.com/justingarciaH/PlantasVsZombies/blob/6b3773d667a6942ecdaa5aed1401d979d8a8286e/patovszombie_ejemplo.jpg" width="400" alt="Plantas vs Zombies"></a>
