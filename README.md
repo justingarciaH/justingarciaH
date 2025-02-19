@@ -40,7 +40,7 @@
 <h3 align="center">Interestelar</h3>
 <div align="center">
 <a href="https://github.com/justingarciaH/Interestelar" target="_blank">
-<img src="https://raw.githubusercontent.com/justingarciaH/repositorio-especial/main/imagenes/interestelar.jpg" width="400" alt="Interestelar"></a>
+<img src="https://github.com/justingarciaH/Interestelar/blob/378f03716456c3fcf5492d1ffe151083d6bf2782/interestelar_ejemplo.jpg" width="400" alt="Interestelar"></a>
 <p>
 <a href="https://github.com/justingarciaH/Interestelar" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
